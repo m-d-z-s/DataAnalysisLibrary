@@ -1,0 +1,4 @@
+= Data Analysis Library =
+
+== Description ==
+The Data Analysis Library (DAL) is a collection of routines for the processing and analysis of data.
